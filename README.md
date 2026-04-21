@@ -8,11 +8,40 @@ This project is a RESTful Smart Campus API built using JAX-RS. It manages Rooms,
 
 ## How to Run the Project
 
-1. download project
-2. open in netbeans
-3. Run the server
-4. Access the API at:
-   http://localhost:8080/Coursework1/api/v1
+
+
+ 1. Clone the Project (saved to Desktop for easy access)
+
+```bash
+cd ~/Desktop
+```
+
+```bash
+git clone https://github.com/S-U-23/ClientServerCourseWork.git
+```
+
+2. Open in NetBeans
+- Open NetBeans  
+- Click File → Open Project  
+- Navigate to Desktop → ClientServerCourseWork  
+- Select the project and open it  
+
+
+
+3. Run the Project
+- Right-click the project  
+- Click Run  
+- Apache Tomcat should start automatically  
+
+
+4. Access the API
+
+Open in browser or Postman:
+
+```
+http://localhost:8080/Coursework1/api/v1
+```
+
 
 
 ##  Sample CURL Commands
