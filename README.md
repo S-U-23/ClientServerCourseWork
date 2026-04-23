@@ -10,7 +10,7 @@ This project is a RESTful Smart Campus API built using JAX-RS. It manages Rooms,
 
 
 
- 1. Clone the Project (saved to Desktop for easy access)
+ 1. Clone the Project (saved to Desktop for easy access through terminal)
 
 ```bash
 cd ~/Desktop
